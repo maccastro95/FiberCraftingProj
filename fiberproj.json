@@ -4,7 +4,7 @@
 [ 
 	{"FeatProjName" : "Cute & Cozy Bear",
 	"FeatProjDesc" : "This tutorial was created by mahum on Youtube. This a beginner friendly project for anyone who is just starting how to crochet. She also includes a free pattern for everyone to download.",
-	"FeatProjImage" : "vid1.png",
+	"FeatProjImage" : "https://raw.githubusercontent.com/maccastro95/FiberCraftingProj/main/vid1.png",
 	"FeatProjWebsite" : "https://www.youtube.com/watch?v=xTQWnvqW2ww",
 	"FeatProjYarn" : "Milk Yarn",
 	"FeatProjHook" : "5 - 6mm",
@@ -15,7 +15,7 @@
 
 	{"FeatProjName" : "Drawstring Bag",
 	"FeatProjDesc" : "This tutorial was created by chorshan on Youtube. This project is also beginner friendly because it emphasizes on the basics of crocheting. It's easy to follow and any size yarn can be used.",
-	"FeatProjImage" : "vid2.png",
+	"FeatProjImage" : "https://raw.githubusercontent.com/maccastro95/FiberCraftingProj/main/vid2.png",
 	"FeatProjWebSite" : "https://www.youtube.com/watch?v=zQsKbszaR6A&t=242s",
 	"FeatProjYarn" : "Acrylic Yarn",
 	"FeatProjHook" : "3-3.5mm",
@@ -26,7 +26,7 @@
 	
 	{"FeatProjName" : "Ribbed Beanie",
 	"FeatProjDesc" : "This tutorial was created by Irina Revo Knitting & Crochet on Youtube. This tutorial has a medium level difficulty despite being a beginner level pattern.",
-	"FeatProjImage" : "vid3.png",
+	"FeatProjImage" : "https://raw.githubusercontent.com/maccastro95/FiberCraftingProj/main/vid3.png",
 	"FeatProjWebSite" : "https://www.youtube.com/watch?v=YuuAfABALCs",
 	"FeatProjYarn" : "Merino Wool",
 	"FeatProjHook" : "3-3.5mm",
